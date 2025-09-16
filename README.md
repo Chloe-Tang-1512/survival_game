@@ -32,7 +32,7 @@ Welcome to **The Purge Survival Game**, a text-based adventure where you must ma
 2. Ensure you have Python installed (version 3.6 or higher recommended).
 3. Run the game:
    ```bash
-   python indie_game.py
+   python game.py
    ```
 
 ## Tips for Survival
