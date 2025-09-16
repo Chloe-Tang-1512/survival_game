@@ -5,7 +5,7 @@ Welcome to **The Purge Survival Game**, a text-based adventure where you must ma
 ## How to Play
 
 1. **Objective**: Survive the purge by completing tasks, managing your resources, and making wise decisions.
-2. **Starting the Game**: Run the `indie_game.py` file in Python to begin your adventure.
+2. **Starting the Game**: Run the `game.py` file in Python to begin your adventure.
 3. **Game Flow**:
    - You have 12 hours to prepare for the purge.
    - Complete tasks to stock up on food, weapons, and supplies, and to secure your house.
