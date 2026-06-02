@@ -62,9 +62,7 @@ What would you like to do first?(1,2,3,4,5) > 1
 You went to the supermarket. It was crowded, but you managed to get some food.
 ```
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests with improvements or new features. All contributions are welcome!
+### I HOPE YOU ENJOY!
 
 ---
 
