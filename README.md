@@ -66,10 +66,6 @@ You went to the supermarket. It was crowded, but you managed to get some food.
 
 Feel free to fork this repository and submit pull requests with improvements or new features. All contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Good luck, and may you survive the purge!
